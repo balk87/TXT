@@ -2,4 +2,3 @@
  Surname: Lesniak
  Age: 35
  Prefer Salary: 1000
-
