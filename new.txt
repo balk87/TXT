@@ -1,0 +1,4 @@
+ Name: Nataly
+ Surname: Lesniak
+ Age: 36
+ Prefer Salary: 1500
