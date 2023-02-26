@@ -1,0 +1,2 @@
+ Check button "Close - not validated
+ Check error.log - 500 error 
